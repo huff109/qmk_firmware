@@ -15,38 +15,39 @@ BASE LAYOUT
 A1+B1+C1+D1+E1+F1+G1
 
 
-        Once layout have been chosen, and switches / extra hardware soldered, please select the layout in VIA. 
-        Each cluster layout is independent of each other, changing any individual cluster will not effect the other clusters. 
+Once layout have been chosen, and switches / extra hardware soldered, please select the layout in VIA. 
+Each cluster layout is independent of each other, changing any individual cluster will not effect the other clusters. 
         
-        A. BackSpace Cluster
-        1. 1U + Push Button Rotary Encoder
-        2. Split 1U + 1U Backspace
-        3. 2U Backspace
+A. BackSpace Cluster
+1. 1U + Push Button Rotary Encoder
+2. Split 1U + 1U Backspace
+3. 2U Backspace
 
-        B. Left Shift Cluster
-        4. 1.5U + 1.25u Split Left Shift
-        5. 1.75U+1U Split Left Shift
-        6. 2.75u Left Shift (not supported with supplied switch plate)
+B. Left Shift Cluster
+4. 1.5U + 1.25u Split Left Shift
+5. 1.75U+1U Split Left Shift
+6. 2.75u Left Shift (not supported with supplied switch plate)
         
-        C. Right Shift Cluster
-        7. 1U Up Key + 1.75U Right Shift
-        8. 2.75U Right Shift (not supported with supplied switch plate)
+C. Right Shift Cluster
+7. 1U Up Key + 1.75U Right Shift
+8. 2.75U Right Shift (not supported with supplied switch plate)
         
-        D. Bottom Left Modifiers
-        9. 3 x 1U Bottom Left Modifiers
-        10. 2 x 1.5U Bottom Left Modifiers
+D. Bottom Left Modifiers
+9. 3 x 1U Bottom Left Modifiers
+10. 2 x 1.5U Bottom Left Modifiers
 
-        E. Bottom Right Modifiers
-        11. 3 x 1U Bottom Right Modifiers
-        12. 2 x 1.5U Bottom Right Modifiers
+E. Bottom Right Modifiers
+11. 3 x 1U Bottom Right Modifiers
+12. 2 x 1.5U Bottom Right Modifiers
 
-        F. Left Spacebar Cluster
-        13. 2.75U Spacebar + 1U Spacebar
-        14. 1U Spacebar + 2.75U Spacebar
+F. Left Spacebar Cluster
+13. 2.75U Spacebar + 1U Spacebar
+14. 1U Spacebar + 2.75U Spacebar
 
-        G. Right Spacebar Cluster
-        15. 2U Spacebar + 1.25U Spacebar
-        16. 1.25U Spacebar + 2U Spacebar
+G. Right Spacebar Cluster
+15. 2U Spacebar + 1.25U Spacebar
+16. 1.25U Spacebar + 2U Spacebar
+
 ![Imgur](https://i.imgur.com/pRf1kRs.gif)
 
 
@@ -54,9 +55,9 @@ layouts B6 and C8 (2.75U Shift)is not supported with the supplied switchplate
 
 Additional features
 
-        A. 1306 vertical oled display. limited customization via coding due to the available memory on the at32u4. learn more on customizing oled display at https://docs.qmk.fm/features/oled_driver
-        B. Optional rotary encoder (refer to A. BackSpace Cluster) rotary encoder mapping will be activated on both stock base qmk and VIA firmware.
-        C. 18x RGB led underglow with reduced animations to adhere to EEEPROM size limit. Users can make more space by removing any graphics displayed on the oled display as well as only using basic fonts.
+A. 1306 vertical oled display. limited customization via coding due to the available memory on the at32u4. learn more on customizing oled display at https://docs.qmk.fm/features/oled_driver
+B. Optional rotary encoder (refer to A. BackSpace Cluster) rotary encoder mapping will be activated on both stock base qmk and VIA firmware.
+C. 18x RGB led underglow with reduced animations to adhere to EEEPROM size limit. Users can make more space by removing any graphics displayed on the oled display as well as only using basic fonts.
 
 * Keyboard Maintainer: [dumb_dumb](https://github.com/hxy)
 * Hardware Supported: alexi v3.17 pcb with oled, rotary encoder and rgb underglow.
@@ -65,6 +66,8 @@ Additional features
 Make example for this keyboard (after setting up your build environment):
 
     make alexi:default
+or
+
     make alexi:via
 
 Flashing example for this keyboard:
