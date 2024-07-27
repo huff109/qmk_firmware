@@ -1,4 +1,4 @@
-# LXIII @ Alexi
+# LXIII @ ALEXI
 
 ![Alexi](https://i.imgur.com/16LtZKQ.jpg)
 ![Alexi_Bottom](https://i.imgur.com/8mbWkhO.jpg)
@@ -6,6 +6,15 @@
 
 *LXIII @ Alexi is an ergonomic split layout 5X/6X% keyboard. Solder only. Several liberties such as removing several keys to achieve the maximum symmetricity. Users are expected to map the missing keys into additional layers. The keys are laid out based on having both homing keys F&J to be placed on mirrored identical position on either left and right side of the keyboard. Currently only 2 major layouts is available in the qmk build folder - stock 63 (lxiii) keys and VIA. All possible layouts are customizable through VIA. Note - Currently VIA only works by self uploading the keyboard definition into the design tab* *pending pull request* *VIA keyboard definition is available through maintainer's github*
 *Alexi is equipped with an OLED display on the left side of the keyboard, an optional pinout for a pushbutton rotary encoder (matrix: 1,12)
+
+KLE PHYSICAL MATRIX LAYOUT
+![Imgur](https://i.imgur.com/pQDB0Hj.png)
+
+PCB FRONT
+![Imgur](https://i.imgur.com/DdURaSR.png)
+
+PCB BACK
+![Imgur](https://i.imgur.com/HNfENpN.png)
 
 LAYOUTS
 this keyboard supports the following layouts as per baked in into the VIA specific firmware.
