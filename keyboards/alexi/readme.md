@@ -39,38 +39,37 @@ Each cluster layout is independent of each other, changing any individual cluste
 or
 Refer to the keyboard.json and base keymap.c in the default keymap forlder should you choose not to use VIA.
         
-A. BackSpace Cluster
-1. 1U + Push Button Rotary Encoder
-2. Split 1U + 1U Backspace
-3. 2U Backspace
+    A. BackSpace Cluster
+    1. 1U + Push Button Rotary Encoder
+    2. Split 1U + 1U Backspace
+    3. 2U Backspace
 
-B. Left Shift Cluster
-4. 1.5U + 1.25u Split Left Shift
-5. 1.75U+1U Split Left Shift
-6. 2.75u Left Shift (not supported with supplied switch plate)
+    B. Left Shift Cluster
+    4. 1.5U + 1.25u Split Left Shift
+    5. 1.75U+1U Split Left Shift
+    6. 2.75u Left Shift (not supported with supplied switch plate)
         
-C. Right Shift Cluster
-7. 1U Up Key + 1.75U Right Shift
-8. 2.75U Right Shift (not supported with supplied switch plate)
+    C. Right Shift Cluster
+    7. 1U Up Key + 1.75U Right Shift
+    8. 2.75U Right Shift (not supported with supplied switch plate)
         
-D. Bottom Left Modifiers
-9. 3 x 1U Bottom Left Modifiers
-10. 2 x 1.5U Bottom Left Modifiers
+    D. Bottom Left Modifiers
+    9. 3 x 1U Bottom Left Modifiers
+    10. 2 x 1.5U Bottom Left Modifiers
 
-E. Bottom Right Modifiers
-11. 3 x 1U Bottom Right Modifiers
-12. 2 x 1.5U Bottom Right Modifiers
+    E. Bottom Right Modifiers
+    11. 3 x 1U Bottom Right Modifiers
+    12. 2 x 1.5U Bottom Right Modifiers
 
-F. Left Spacebar Cluster
-13. 2.75U Spacebar + 1U Spacebar
-14. 1U Spacebar + 2.75U Spacebar
+    F. Left Spacebar Cluster
+    13. 2.75U Spacebar + 1U Spacebar
+    14. 1U Spacebar + 2.75U Spacebar
 
-G. Right Spacebar Cluster
-15. 2U Spacebar + 1.25U Spacebar
-16. 1.25U Spacebar + 2U Spacebar
+    G. Right Spacebar Cluster
+    15. 2U Spacebar + 1.25U Spacebar
+    16. 1.25U Spacebar + 2U Spacebar
 
 ![Imgur](https://i.imgur.com/pRf1kRs.gif)
-
 
 layouts B6 and C8 (2.75U Shift)is not supported with the supplied switchplate 
 
@@ -87,8 +86,6 @@ C. 18x RGB led underglow with reduced animations to adhere to EEEPROM size limit
 Make example for this keyboard (after setting up your build environment):
 
     make alexi:default
-or
-
     make alexi:via
 
 Flashing example for this keyboard:
