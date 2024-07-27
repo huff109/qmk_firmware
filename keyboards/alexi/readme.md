@@ -10,7 +10,7 @@
 
 *Currently VIA only works by self uploading the keyboard definition into the design tab* 
 
-*finalizing data driven configuration as per the latest QMK update, will attempt a pull request when everything checks out* 
+*Finalizing data driven configuration as per the latest QMK update, will attempt a pull request when everything checks out* 
 
 *VIA keyboard definition is available through maintainer's github for the time being*
 
@@ -27,7 +27,7 @@
 
 # LAYOUTS
 
-this keyboard supports the following layouts as per baked in into the VIA specific firmware.
+This keyboard supports the following layouts as per baked in into the VIA specific firmware.
 
 # BASE LAYOUT
 ![Base_Layout](https://i.imgur.com/7YPRcfj.jpg)
@@ -35,7 +35,9 @@ A1+B1+C1+D1+E1+F1+G1
 
 
 Once layout have been chosen, and switches / extra hardware soldered, please select the layout in VIA. 
-Each cluster layout is independent of each other, changing any individual cluster will not effect the other clusters. 
+Each cluster layout is independent of each other, changing any individual cluster will not effect the other clusters.
+or
+Refer to the keyboard.json and base keymap.c in the default keymap forlder should you choose not to use VIA.
         
 A. BackSpace Cluster
 1. 1U + Push Button Rotary Encoder
