@@ -16,8 +16,7 @@ A1+B1+C1+D1+E1+F1+G1
 
 
         Once layout have been chosen, and switches / extra hardware soldered, please select the layout in VIA. Each cluster layout is independent of each other, changing any individual cluster will not effect the other clusters. 
-        ![Imgur](https://i.imgur.com/pRf1kRs.gif)
-
+        
         A. BackSpace Cluster
         1. 1U + Push Button Rotary Encoder
         2. Split 1U + 1U Backspace
@@ -47,6 +46,8 @@ A1+B1+C1+D1+E1+F1+G1
         G. Right Spacebar Cluster
         15. 2U Spacebar + 1.25U Spacebar
         16. 1.25U Spacebar + 2U Spacebar
+![Imgur](https://i.imgur.com/pRf1kRs.gif)
+
 
 layouts B6 and C8 (2.75U Shift)is not supported with the supplied switchplate 
 
