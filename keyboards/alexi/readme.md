@@ -14,9 +14,9 @@ BASE LAYOUT
 ![Base_Layout](https://i.imgur.com/7YPRcfj.jpg)
 A1+B1+C1+D1+E1+F1+G1
 
-![Imgur](https://i.imgur.com/pRf1kRs.gif)
 
 Once layout have been chosen, and switches / extra hardware soldered, please select the layout in VIA. Each cluster layout is independent of each other, changing any individual cluster will not effect the other clusters. 
+        ![Imgur](https://i.imgur.com/pRf1kRs.gif)
 
         A. BackSpace Cluster
         1. 1U + Push Button Rotary Encoder
@@ -66,8 +66,7 @@ Make example for this keyboard (after setting up your build environment):
     make alexi:via
 
 Flashing example for this keyboard:
-    directly flashing post compiled is not advisable. please compile and flash using qmk toolbox
-
+    Directly flashing post compiled is not advisable. Please compile and flash using qmk toolbox
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
 ## Bootloader
