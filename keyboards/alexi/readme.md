@@ -79,9 +79,9 @@ A. 1306 vertical oled display. limited customization via coding due to the avail
 B. Optional rotary encoder (refer to A. BackSpace Cluster) rotary encoder mapping will be activated on both stock base qmk and VIA firmware.
 C. 18x RGB led underglow with reduced animations to adhere to EEEPROM size limit. Users can make more space by removing any graphics displayed on the oled display as well as only using basic fonts.
 
-* Keyboard Maintainer: [penjenayah](https://github.com/huff109)
-* Hardware Supported: alexi v3.17 pcb with oled, rotary encoder and rgb underglow.
-* Hardware Availability: *currently not available for purchase - switchplate dxf for 2.75u shift available upon request*
+    * Keyboard Maintainer: [penjenayah](https://github.com/huff109)
+    * Hardware Supported: alexi v3.17 pcb with oled, rotary encoder and rgb underglow.
+    * Hardware Availability: *currently not available for purchase - switchplate dxf for 2.75u shift available upon request*
 
 Make example for this keyboard (after setting up your build environment):
 
