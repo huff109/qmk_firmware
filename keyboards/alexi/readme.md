@@ -17,6 +17,7 @@ PCB BACK
 ![Imgur](https://i.imgur.com/HNfENpN.png)
 
 LAYOUTS
+
 this keyboard supports the following layouts as per baked in into the VIA specific firmware.
 
 BASE LAYOUT
