@@ -1,6 +1,6 @@
 # alexi
 
-![alexi](https://imgur.com/16LtZKQ)
+![alexi](https://i.imgur.com/16LtZKQ.jpg)
 
 *LXIII @ Alexi is an ergonomic split layout 5X/6X% keyboard. Several liberties such as removing several keys to achieve the maximum symmetricity. Users are expected to map the missing keys into additional layers. The keys are laid out based on having both homing keys F&J to be placed on mirrored identical position on either left and right side of the keyboard. currently only 2 major layouts is available in the qmk build folder - stock 63 (lxiii) keys and VIA. All possible layouts are customizable through VIA. note - currently VIA only works by self uploading the keyboard definition into the design tab* *pending pull request* *VIA keyboard definition is available through maintainer's github*
 *Alexi is equipped with an OLED display on the left side of the keyboard, an optional pinout for a pushbutton rotary encoder (matrix: 1,12)
