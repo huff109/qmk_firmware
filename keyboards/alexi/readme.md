@@ -16,6 +16,8 @@ A1+B1+C1+D1+E1+F1+G1
 
 ![Imgur](https://i.imgur.com/pRf1kRs.gif)
 
+Once layout have been chosen, and switches / extra hardware soldered, please select the layout in VIA. Each cluster layout is independent of each other, changing any individual cluster will not effect the other clusters. 
+
         A. BackSpace Cluster
         1. 1U + Push Button Rotary Encoder
         2. Split 1U + 1U Backspace
