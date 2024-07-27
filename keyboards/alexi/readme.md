@@ -31,7 +31,7 @@ This keyboard supports the following layouts as per baked in into the VIA specif
 
 # BASE LAYOUT
 ![Base_Layout](https://i.imgur.com/7YPRcfj.jpg)
-A1+B1+C1+D1+E1+F1+G1
+A1+B4+C7+D9+E11+F13+G15
 
 
 Once layout have been chosen, and switches / extra hardware soldered, please select the layout in VIA. 
