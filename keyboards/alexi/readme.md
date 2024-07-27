@@ -14,7 +14,7 @@ BASE LAYOUT
 ![Base_Layout](https://i.imgur.com/7YPRcfj.jpg)
 A1+B1+C1+D1+E1+F1+G1
 
-![Layouts](https://i.imgur.com/j8SfRmf.mp4)
+![Imgur](https://i.imgur.com/pRf1kRs.gifv)
 
         A. BackSpace Cluster
         1. 1U + Push Button Rotary Encoder
