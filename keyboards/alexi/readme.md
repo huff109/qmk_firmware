@@ -14,7 +14,7 @@
 
 *VIA keyboard definition is available through maintainer's github for the time being*
 
-*Alexi is equipped with an OLED display on the left side of the keyboard, an optional pushbutton rotary encoder (matrix: 1,12)*
+*Alexi is equipped with an OLED display on the left side of the keyboard, an optional pushbutton rotary encoder (matrix: 2,12)*
 
 # KLE PHYSICAL MATRIX LAYOUT
 ![Imgur](https://i.imgur.com/pQDB0Hj.png)
